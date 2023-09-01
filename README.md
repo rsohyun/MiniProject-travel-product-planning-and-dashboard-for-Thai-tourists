@@ -26,7 +26,7 @@
   
 ## 데이터 전처리 및 분석
 - [출입국 데이터 전처리 및 분석을 통한 타겟 설정](https://github.com/rsohyun/planning-and-dashboard-for-Thai-tourists/blob/6e51765348aa6d1f384537d77d04ef788f27bd78/project_tour_product_planning.ipynb)
-- [태국 관광객 대상 기획을 위한 외부데이터 전처리]([real1419 preprocess_code.R](https://github.com/rsohyun/planning-and-dashboard-for-Thai-tourists/blob/6e51765348aa6d1f384537d77d04ef788f27bd78/real1419%20preprocess_code.R))
+- [태국 관광객 대상 기획을 위한 외부데이터 전처리](https://github.com/rsohyun/planning-and-dashboard-for-Thai-tourists/blob/6e51765348aa6d1f384537d77d04ef788f27bd78/real1419%20preprocess_code.R)
 
 
 ## 태블로 대시보드 시각화 
