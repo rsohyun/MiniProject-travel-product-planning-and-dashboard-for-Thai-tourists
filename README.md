@@ -33,7 +33,7 @@
 tableau public에서 보시면 인터렉티브한 대시보드를 확인할 수 있습니다! [tableau public에서 확인하기](https://public.tableau.com/app/profile/ryu.sohyun/viz/___16817278590110/sheet3?publish=yes)
 ![image](https://github.com/rsohyun/planning-and-dashboard-for-Thai-tourists/assets/97154465/4ab9a266-a2f0-4cea-b3ed-0eb1892668d5)
 
-## 관광 기획 포스터
+## 여행 상품 포스터
 ![image](https://github.com/rsohyun/planning-and-dashboard-for-Thai-tourists/assets/97154465/6b0daf85-940c-4204-9a1b-65713dcd0a2f)
 
 
